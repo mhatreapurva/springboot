@@ -76,6 +76,10 @@ If one wants to avoid the hassle of setting up the spring application, they can 
 
 > P.S. you do not need the IntelliJ ultimate edition to get the plugin, like mentioned in the video have a look at **[this video](https://www.youtube.com/watch?v=oO6HPVRqGvg)**, there might be other options as well, feel free to explore!
 
+## Concluding notes
+
+This simple tutorial covers only a ```GET``` operation, but project will require much more operations like ```PUT, DELETE, etc```. I will recommend a tutorial by [AMIGOSCODE](https://www.youtube.com/watch?v=VVn9OG9nfH0) this tutorial covers many basic CRUD operations and follows a lot of design patterns!
+
 
 
 
